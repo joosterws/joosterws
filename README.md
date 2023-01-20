@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @joosterws
 - 👀 I’m interested in home automation, HTML, CSS, JavaScript.
+- 🖥️ I try to selfhost whatever I can with Unraid, Docker, Nextcloud and Home Assistant. But that's an ongoing adventure.
 - 🌱 I’m currently learning more HTML, CSS, JavaScript and Python.
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
