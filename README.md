@@ -25,7 +25,7 @@ The never-ending adventure part is still true.
 
 ## 🎓 Infrastructure work during my studies
 
-- **VMware vSphere cluster**: multi-node ESXi cluster with vCenter, shared storage, HA and vMotion
+- **VMware vSphere cluster**: multi-node ESXi cluster with vCenter, shared storage (SAN via iSCSI), HA and vMotion
 - **Proxmox VE cluster**: clustered nodes with shared storage (SAN via iSCSI), HA and live migration
 - **Active Directory integration**: both clusters authenticated against Windows AD via LDAP, with role-based access for students and staff
 - Network design for the above: VLAN segmentation, management/storage/VM traffic separation, firewalling
