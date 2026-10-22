@@ -5,6 +5,7 @@ Infrastructure person who likes owning the whole stack: from the switch port and
 - 🔐 Interested in cyber security, networking, virtualization and home automation (with a side of electrical engineering)
 - 🏠 Run a self-hosted home infrastructure that replaces most cloud services I used to depend on
 - 🛠️ Build small tools and apps as a hobby, usually Self-hostable and DIY
+- ⛰️ Besides these indoor activities I also love going outdoors to explore on foot, (mountain)bike, ski's or in a car. 
 
 ---
 
@@ -19,7 +20,7 @@ Everything below runs on my own hardware, at home, behind my own reverse proxy a
 | **Cameras / NVR** | Frigate with object detection, fully local, no cloud |
 | **Home automation** | Home Assistant integrated with Frigate, Zigbee devices and custom hardware |
 
-The never-ending adventure part is still true.
+A never ending and ever evolving adventure
 
 ---
 
