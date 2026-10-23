@@ -34,7 +34,7 @@ A never-ending and ever-evolving adventure.
 
 ## ⌨️ Macropad v2: hardware and software, both mine
 
-The project I'm proud of, because it goes from KiCad schematic to firmware to the key you press.
+A recent project I'm proud of, because it goes from KiCad schematic to firmware to the key you press in an enclosure I designed and 3D-printed myself.
 
 ```
    [ Play ] [ Prev ] [ Next ]   ( Knob )
